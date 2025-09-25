@@ -1,0 +1,29 @@
+
+
+
+Theme Description:
+
+The theme I decided goe for is fantasay, and my game, Firebound, follows the story of a flame named Fugi.
+Fugi was born inside a dungueon, and in order to protect herself she throughs fire to her slimey enemies.
+Her goal is to grow by consiming logs and carbon. 
+
+Custom Features and Mechanics: 
+
+There are three main mechanics in the game. The first one is shooting enemies which allows the player to 
+protect himself and shoot to special targets.Targets are a really rare entity that spawn every 1000 ticks.
+This makes it difficult for the player to win as hiting 4 targets is a condition for winning.
+The second mechanic is growth, meaining it as the flame consumescoals and logs it grows in size and increases its ammo -> the amount it can shoot.It also decreases in size as it gets hit by enemies, which makes her to decrease her growth units. Growth units are the amount of growth the flame has achieved after it has collided with consumables. These units mark the amount of growth the flame has achieved or lost.After 40 growth units the flame changes its skin and if it gets hit and the growth units decrease it goes back to its originalskin. The third game mechanic, is speed increase. The Entities increase their speed as the game progresses. The only entities whose speed remains constant are targets and the player. 
+
+
+
+Conditions to win:
+
+The players goal is to hit 4 targets, get a score of 2000, and and get a 100 growth units. 
+The player looses if the flames hp reaches 0. 
+
+
+Sources: 
+
+https://www.deviantart.com/emeraldbunny20/art/Slime-Pixel-Animation-862122957
+https://dribbble.com/shots/2040007-The-Dungeons
+https://www.youtube.com/watch?v=JTpcy7EGPYY&ab_channel=Ujico%2a%2FSnail%27sHouse
